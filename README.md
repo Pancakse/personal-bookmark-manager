@@ -10,7 +10,7 @@ A simple CLI-based bookmark manager to save, view, and delete your bookmarks.
 ## 🧪 Sample Usage
 1. Clone this repo:
    ```bash
-   git clone https://github.com/yourusername/personal-bookmark-manager.git
+   git clone https://github.com/Pancakse/personal-bookmark-manager.git
    cd personal-bookmark-manager
 
 2. Run the bookmark manager:
