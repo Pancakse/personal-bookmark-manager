@@ -1,0 +1,8 @@
+
+---
+
+## 📄 **requirements.txt**  
+Since this project uses only Python's standard library, there are no external dependencies to list. Here's the file content:
+
+```text
+# No external libraries required
